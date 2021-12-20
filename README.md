@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yazidberli
 - 👀 I’m interested in data science and data analyst
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on climatology project with python
+- 💞️ I’m looking to collaborate on climatology data project with python
 - 📫 How to reach me yazidberlianul@gmail.com
 
 <!---
